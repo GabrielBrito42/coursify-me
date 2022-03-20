@@ -19,5 +19,5 @@ then scan de QR code on your expo go app, and you can just use the app
 to verify the unit tests just run
 
 ```
-yarn test start
+yarn test
 ```
