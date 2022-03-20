@@ -3,17 +3,21 @@ Coursify-me simple app
 
 git clone the project
 
-run 
+run to install all dependecies, then you can justo run 
 ```
 npm install
 # or
 yarn
 ```
 
-to install all dependecies, then you can justo run
-
 ```
 expo start
 ```
 
-than scan de QR code on your expo go app, and you can just use the app
+then scan de QR code on your expo go app, and you can just use the app
+
+to verify the unit tests just run
+
+```
+yarn test start
+```
